@@ -6,11 +6,11 @@ An end-to-end law enforcement operations portfolio analyzing **112,283 police in
 
 ## Project Directory & Deliverables
 
-* **Live Tableau Dashboard:** [Milwaukee OMAP Tactical Briefing Dashboard]() *(Interactive spatial density, hot-spot clustering, and shift filters)*
-* **Executive Policy Brief:** [`deliverables/MPD_Patrol_Staffing_Review.pdf`]() 
-* **Executive Excel Workbook:** [`deliverables/Milwaukee_OMAP_Executive_Model.xlsx`]() *(4-tab operational model with KPI scorecards and trend visualizations)*
-* **Python Analytics Pipeline:** [`scripts/omap_end_to_end_pipeline.py`]() *(Automated raw data ingestion, workload modeling, and time-series forecasting)*
-
+* **Live Tableau Dashboard:** [Milwaukee OMAP Tactical Briefing Dashboard](https://public.tableau.com/app/profile/emma.dumonseau/viz/MilwaukeeCrimeOMAPAnalysis/Dashboard1) *(Interactive spatial density, hot-spot clustering, and shift filters)*
+* **Executive Policy Brief:** [`deliverables/MPD_Patrol_Staffing_Review.pdf`](https://github.com/emmadumonseau/Milwaukee-Police-Department-Law-Enforcement-Analytics-Patrol-Resource-Allocation-Portfolio/blob/main/Milwaukee%20Police%20Department%20Staffing%20Analysis.pdf) 
+* **Executive Excel Workbook:** [`deliverables/Milwaukee_OMAP_Executive_Model.xlsx`](https://github.com/emmadumonseau/Milwaukee-Police-Department-Law-Enforcement-Analytics-Patrol-Resource-Allocation-Portfolio/blob/main/Milwaukee%20Crime%20Analysis%20Summary.xlsx) *(4-tab operational model with KPI scorecards and trend visualizations)*
+* **Python Analytics Pipeline:** [`scripts/omap_end_to_end_pipeline.py`](https://github.com/emmadumonseau/Milwaukee-Police-Department-Law-Enforcement-Analytics-Patrol-Resource-Allocation-Portfolio/blob/main/Milwaukee_OMAP_Pipeline.ipynb) *(Automated raw data ingestion, workload modeling, and time-series forecasting)*
+* **Full Dataset (112K Incidents):** [Download Milwaukee Crime GeoJSON (Google Drive)](https://drive.google.com/file/d/1j4-NWdgHqqhZbAOyqAmVBkkan1YbDuoy/view?usp=sharing) *(Full production dataset)*
 ---
 
 ## Executive Overview & Problem Statement
