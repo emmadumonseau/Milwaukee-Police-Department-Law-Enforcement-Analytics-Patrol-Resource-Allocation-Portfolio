@@ -1,0 +1,2 @@
+# Milwaukee-Police-Department-Law-Enforcement-Analytics-Patrol-Resource-Allocation-Portfolio
+An end-to-end law enforcement operations portfolio analyzing 112,283 police incident records in Milwaukee. This project bridges backend data engineering, temporal analysis, dynamic shift staffing models, and executive command policy reporting to optimize patrol deployment without increasing agency headcount.
